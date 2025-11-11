@@ -4,7 +4,7 @@
 - Node.js
 - Express.js
 - CORS
-- MySQL
+- MySQL2
 
 ---
 
